@@ -15,6 +15,7 @@
     border-radius: 10px;
     border: 1px solid;
     margin: 1%;
+    box-shadow: 2px black;
 }
 .image img{
     height: 50%;
